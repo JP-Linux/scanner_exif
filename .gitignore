@@ -1,0 +1,75 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.dll
+*.lib
+*.d
+*.slo
+*.lo
+*.ko
+*.mod
+*.gcno
+*.gcda
+
+# Executável principal
+scanner_exif
+
+# Diretórios de build
+build/
+bin/
+obj/
+.vs/
+x64/
+x86/
+Debug/
+Release/
+CMakeFiles/
+
+# Arquivos do CMake
+CMakeCache.txt
+CMakeUserPresets.json
+cmake_install.cmake
+install_manifest.txt
+Makefile
+CTestTestfile.cmake
+*.cmake
+
+# Arquivos de IDE/Editores
+.vscode/
+.idea/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj*
+*.filters
+*.layout
+
+# Dependências externas
+deps/
+third_party/
+
+# Arquivos temporários e de log
+*.log
+*.tmp
+*.swp
+*~
+*.bak
+*.orig
+
+# MacOS
+.DS_Store
+
+# Linux/Unix
+*.autosave
+
+# Documentação gerada
+docs/html/
+docs/latex/
