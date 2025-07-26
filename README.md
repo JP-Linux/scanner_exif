@@ -1,5 +1,6 @@
 # Scanner Exif
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://jp-linux.github.io)
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![Exiv2](https://img.shields.io/badge/Exiv2-0.27%2B-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
